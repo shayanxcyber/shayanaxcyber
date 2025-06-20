@@ -6,7 +6,7 @@
 
 I'm a second-year **Bachelor of Cybersecurity** student at the University of Technology Sydney. I'm driven by a fascination with how digital systems work, and more importantly, how they can be broken. My goal is to leverage that understanding from an offensive security perspective to help organisations build more resilient and secure systems.
 
-I believe in learning by doing, and my portfolio is a reflection of that philosophy—a collection of hands-on projects from analysing and defending against web vulnerabilities to building secure servers and private blockchains from scratch.
+I believe in learning by doing, and my portfolio is a reflection of that philosophy, a collection of hands-on projects from analysing and defending against web vulnerabilities to building secure servers and private blockchains from scratch.
 
 ---
 
